@@ -1,0 +1,103 @@
+header {
+  background-color: #C88EA7;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+ .nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+  color: #643843;
+}
+
+.outter-div {
+  background-color: #E7CBCB;
+  margin-top: -30px;
+  padding-bottom: 50px;
+}
+
+#hero {
+  margin-top: -100px;
+}
+
+#zinhle-portrait {
+height: 600px;
+border-radius: 20%;
+box-shadow: inset;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.about-h2 {
+  margin-top: -25px;
+}
+h1, h2, h3 {
+  font-family: "Poppins", serif;
+  font-style: italic;
+  font-weight: 900;
+}
+
+h5, .nav-link {
+  font-family: "Montserrat", sans-serif;
+  font-weight: light;
+}
+button {
+  background-color: #99627A;
+  border: 2px solid #99627A;
+  border-radius: 4px;
+  padding: 9px 10px;
+  box-shadow: inset;
+}
+
+.card-body .melsoft-button {
+  margin-bottom: -209px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.about-img {
+  border-radius: 50%;
+  width: 400px;
+  height: 130px;
+}
+.about-container {
+  display: flex;
+  gap: 20px;
+}
+
+.contact i {
+  font-size: 15px;
+}
+
+.socials i {
+  gap: 40px;
+  margin-top: 15px;
+  margin-right: 20px;
+  padding-bottom: 20px;
+  color: #E7CBCB;
+  font-size: xx-large;
+  text-align: center;
+}
+
+footer {
+  background-color: #643843;
+  color: white;
+}
+
+.footer {
+  text-align: center;
+}
